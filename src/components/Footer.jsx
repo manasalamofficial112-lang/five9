@@ -48,7 +48,7 @@ const Footer = () => {
                                 <div className="reach-wrapper">
                                     <h4>Reach Us</h4>
                                     <a href="tel:+18778534839" className='footer-para'>+1 877 853 4839</a>
-                                    <a href="mailto:hello@five9.com" className='footer-para'>hello@five9.com</a>
+                                    <a href="mailto:info@five9.co" className='footer-para'>info@five9.co</a>
                                 </div>
                                 <div className="reach-wrapper">
                                     <h4>Contact Us</h4>
